@@ -9,7 +9,7 @@
             "email": "hello@zachjohnson.name"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.6.4"
     },
