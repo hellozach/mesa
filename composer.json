@@ -1,0 +1,21 @@
+{
+    "name": "hellozach/mesa",
+    "description": "A simple HTML table builder. Note: mesa is the Spanish word for table.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zach Johnson",
+            "email": "hello@zachjohnson.name"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloZach\\": "src/HelloZach/"
+        }
+    }
+}
